@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Mongo"
+		},
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
